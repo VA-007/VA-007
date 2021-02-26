@@ -2,14 +2,14 @@
 
 I am Vishank Sharma, a programmer in making, currently pursuing my bachelor's degree majoring in mechanical engineering from University Visvesvariya College of Engineering,Bangalore. I am a tech enthusiast & an avid learner. I always try to learn new things which might not always be technical. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/vishank-sharma-3a65961b2/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:vishanksharma20102000@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vishank-Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/vishank-sharma-3a65961b2/)
+[![Gmail Badge](https://img.shields.io/badge/-vishanksharma20102000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:vishanksharma20102000@gmail.com)
 
 ## ⚡ Technologies
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
