@@ -2,7 +2,7 @@
 
 I am Vishank Sharma, a programmer in making, currently pursuing my bachelor's degree majoring in mechanical engineering from University Visvesvariya College of Engineering,Bangalore. I am a tech enthusiast & an avid learner. I always try to learn new things which might not always be technical. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vishank-Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/vishank-sharma-3a65961b2/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vishank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/vishank-sharma-3a65961b2/)
 [![Gmail Badge](https://img.shields.io/badge/-vishanksharma20102000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:vishanksharma20102000@gmail.com)
 
 ## ⚡ Technologies
